@@ -20,5 +20,5 @@ How to Start
 1. Clone the repository;
 2. Navigate to the folder;
 3. Run the wizard installer;
-4. Choose destination folder and choose whether you'd like to add a script to your system startups (follow Wizard's instructions)
+4. Choose destination folder and choose whether you'd like to add a script to your system startups (follow Wizard's instructions);
 5. Run AutoFlusher.exe inside directory chosen.
