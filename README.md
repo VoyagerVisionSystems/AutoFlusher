@@ -24,3 +24,5 @@ How to Start
 5. Run AutoFlusher.exe inside directory chosen.
 
 I strongly recommend to install "closed source" version of the project for non-technical users.
+
+***Currently designing a wizard installer...***
