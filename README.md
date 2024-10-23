@@ -21,7 +21,7 @@ AutoFlusher logs all cleaning activities and errors. Its interface provides a pr
 2. Navigate to the folder;
 3. Run the wizard installer;
 4. Choose destination folder and choose whether you'd like to add a script to your system startups (follow Wizard's instructions);
-5. Run AutoFlusher.exe inside directory chosen.
+5. After the installation, run AutoFlusher.exe inside directory chosen.
 
 I strongly recommend to install "closed source" version of the project for non-technical users.
 
