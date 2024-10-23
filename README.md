@@ -17,7 +17,7 @@ AutoFlusher logs all cleaning activities and errors. Its interface provides a pr
 3. Optional donations button for later on project support and dev.
     
 **How to Start**
-1. Clone the repository;
+1. Clone the repository or just download installer;
 2. Navigate to the folder;
 3. Run the wizard installer;
 4. Choose destination folder and choose whether you'd like to add a script to your system startups (follow Wizard's instructions);
