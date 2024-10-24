@@ -25,4 +25,4 @@ AutoFlusher logs all cleaning activities and errors. Its interface provides a pr
 
 I strongly recommend to install "closed source" version of the project if yu are a regular user.
 
-Every setup includes a wizard installed with converted and compiled program + UI.
+Every setup includes a wizard installer with converted and compiled program + UI.
