@@ -24,4 +24,5 @@ AutoFlusher logs all cleaning activities and errors. Its interface provides a pr
 5. After the installation, run AutoFlusher.exe inside directory chosen.
 
 I strongly recommend to install "closed source" version of the project if yu are a regular user.
+
 Every setup includes a wizard installed with converted and compiled program + UI.
