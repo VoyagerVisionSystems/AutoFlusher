@@ -6,8 +6,7 @@ AutoFlusher targets key areas like browser caches for Chrome, Firefox, Edge, and
 1. Light on Resources: Runs quietly without slowing down your system;
 2. Automatic Cleanup: Regularly removes temp files, browser caches, and empties recycle bins;
 3. Real-Time Progress: Shows cleaning progress and logs all actions;
-4. Real-Time Progress: Shows cleaning progress and logs all actions;
-5. Continuous Operation: Cleans your system every 15 seconds without user input.
+4. Continuous Operation: Cleans your system every 15 seconds without user input.
 
 AutoFlusher logs all cleaning activities and errors. Its interface provides a progress bar that shows the current status of the cleaning process.
 
