@@ -82,7 +82,7 @@ class Auto_Flusher_1(QObject):
                          'User Data', 'Default', 'Service Worker', 'CacheStorage')  # Service workers cache
         ]
 
-        # Loop through possible additional Edge profiles from 'Profile 1' to 'Profile 10'
+        # Loop through possible additional Edge profiles from 'Profile 2' to 'Profile 10'
         for i in range(1, 11):
             time.sleep(0.01)  # SLOWDOWN TIMER - REDUCES RAM/CPU IMPACT
             profile_name = f'Profile {i}'
